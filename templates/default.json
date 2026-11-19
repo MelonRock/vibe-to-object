@@ -1,0 +1,7 @@
+{
+  "name": "default",
+  "aspect_ratio": "2:3",
+  "canvas_px": [1024, 1536],
+  "trim_margin": 0.06,
+  "camera_zone": {"x": 0.0, "y": 0.0, "w": 0.30, "h": 0.24}
+}
